@@ -1,10 +1,9 @@
 //
-//  ShowList.swift
+//  NewList.swift
 //  DemoProjectSnu
 //
 //  Created by shashivendra  on 15/11/21.
 //
-
 
 import SwiftUI
 struct DataList {
@@ -14,7 +13,7 @@ struct DataList {
     var Subtitle: String
 }
 
-struct ShowList: View {
+struct NewList: View {
     var data = [DataList(name: "charleyrivers", image: "charleyrivers", Subtitle: "1"),DataList.init(name: "umbagog", image: "umbagog", Subtitle: "2"),DataList.init(name: "twinlake", image: "twinlake", Subtitle: "3"),
                 DataList(name: "silversalmoncreek", image: "silversalmoncreek", Subtitle: "4"),DataList.init(name: "stmarylake", image: "stmarylake", Subtitle: "5"),DataList.init(name: "turtlerock", image: "turtlerock", Subtitle: "6"),
                 DataList(name: "chilkoottrail", image: "chilkoottrail", Subtitle: "7"),DataList.init(name: "chincoteague", image: "chincoteague", Subtitle: "8"),DataList.init(name: "hiddenlake", image: "hiddenlake", Subtitle: "9"),
@@ -53,8 +52,9 @@ struct ShowList: View {
         }
     }
 }
-struct ShowList_Previews: PreviewProvider {
+
+struct NewList_Previews: PreviewProvider {
     static var previews: some View {
-        ShowList()
+        NewList()
     }
 }
