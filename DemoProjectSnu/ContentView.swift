@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  DemoSnuxll
+//  DemoProjectSnu
 //
 //  Created by shashivendra  on 15/11/21.
 //
@@ -9,8 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Helloo ios  mac ")
-            .padding()
+Image("hiddenlake")
+        .padding()
     }
 }
 

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  DemoSnuxll
+//  DemoProjectSnu
 //
 //  Created by shashivendra  on 15/11/21.
 //
