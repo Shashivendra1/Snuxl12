@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D7F015B627423BDB0091AB9F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F015B527423BDB0091AB9F /* AppDelegate.swift */; };
-		D7F015B827423BDB0091AB9F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F015B727423BDB0091AB9F /* SceneDelegate.swift */; };
-		D7F015BA27423BDB0091AB9F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F015B927423BDB0091AB9F /* ContentView.swift */; };
-		D7F015BC27423BDF0091AB9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7F015BB27423BDF0091AB9F /* Assets.xcassets */; };
-		D7F015BF27423BDF0091AB9F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7F015BE27423BDF0091AB9F /* Preview Assets.xcassets */; };
-		D7F015C227423BDF0091AB9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7F015C027423BDF0091AB9F /* LaunchScreen.storyboard */; };
+		D7F015DC27423ECD0091AB9F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F015DB27423ECD0091AB9F /* AppDelegate.swift */; };
+		D7F015DE27423ECD0091AB9F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F015DD27423ECD0091AB9F /* SceneDelegate.swift */; };
+		D7F015E027423ECD0091AB9F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7F015DF27423ECD0091AB9F /* ContentView.swift */; };
+		D7F015E227423ED00091AB9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7F015E127423ED00091AB9F /* Assets.xcassets */; };
+		D7F015E527423ED00091AB9F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7F015E427423ED00091AB9F /* Preview Assets.xcassets */; };
+		D7F015E827423ED00091AB9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7F015E627423ED00091AB9F /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D7F015B227423BDB0091AB9F /* SnuxlDemoo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnuxlDemoo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D7F015B527423BDB0091AB9F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D7F015B727423BDB0091AB9F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D7F015B927423BDB0091AB9F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		D7F015BB27423BDF0091AB9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D7F015BE27423BDF0091AB9F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		D7F015C127423BDF0091AB9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D7F015C327423BDF0091AB9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7F015D827423ECD0091AB9F /* DemoSnuxll.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoSnuxll.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D7F015DB27423ECD0091AB9F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D7F015DD27423ECD0091AB9F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		D7F015DF27423ECD0091AB9F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D7F015E127423ED00091AB9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D7F015E427423ED00091AB9F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D7F015E727423ED00091AB9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D7F015E927423ED00091AB9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D7F015AF27423BDB0091AB9F /* Frameworks */ = {
+		D7F015D527423ECD0091AB9F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,40 +37,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D7F015A927423BDB0091AB9F = {
+		D7F015CF27423ECC0091AB9F = {
 			isa = PBXGroup;
 			children = (
-				D7F015B427423BDB0091AB9F /* SnuxlDemoo */,
-				D7F015B327423BDB0091AB9F /* Products */,
+				D7F015DA27423ECD0091AB9F /* DemoSnuxll */,
+				D7F015D927423ECD0091AB9F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D7F015B327423BDB0091AB9F /* Products */ = {
+		D7F015D927423ECD0091AB9F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D7F015B227423BDB0091AB9F /* SnuxlDemoo.app */,
+				D7F015D827423ECD0091AB9F /* DemoSnuxll.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D7F015B427423BDB0091AB9F /* SnuxlDemoo */ = {
+		D7F015DA27423ECD0091AB9F /* DemoSnuxll */ = {
 			isa = PBXGroup;
 			children = (
-				D7F015B527423BDB0091AB9F /* AppDelegate.swift */,
-				D7F015B727423BDB0091AB9F /* SceneDelegate.swift */,
-				D7F015B927423BDB0091AB9F /* ContentView.swift */,
-				D7F015BB27423BDF0091AB9F /* Assets.xcassets */,
-				D7F015C027423BDF0091AB9F /* LaunchScreen.storyboard */,
-				D7F015C327423BDF0091AB9F /* Info.plist */,
-				D7F015BD27423BDF0091AB9F /* Preview Content */,
+				D7F015DB27423ECD0091AB9F /* AppDelegate.swift */,
+				D7F015DD27423ECD0091AB9F /* SceneDelegate.swift */,
+				D7F015DF27423ECD0091AB9F /* ContentView.swift */,
+				D7F015E127423ED00091AB9F /* Assets.xcassets */,
+				D7F015E627423ED00091AB9F /* LaunchScreen.storyboard */,
+				D7F015E927423ED00091AB9F /* Info.plist */,
+				D7F015E327423ED00091AB9F /* Preview Content */,
 			);
-			path = SnuxlDemoo;
+			path = DemoSnuxll;
 			sourceTree = "<group>";
 		};
-		D7F015BD27423BDF0091AB9F /* Preview Content */ = {
+		D7F015E327423ED00091AB9F /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				D7F015BE27423BDF0091AB9F /* Preview Assets.xcassets */,
+				D7F015E427423ED00091AB9F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -78,38 +78,38 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D7F015B127423BDB0091AB9F /* SnuxlDemoo */ = {
+		D7F015D727423ECD0091AB9F /* DemoSnuxll */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D7F015C627423BDF0091AB9F /* Build configuration list for PBXNativeTarget "SnuxlDemoo" */;
+			buildConfigurationList = D7F015EC27423ED00091AB9F /* Build configuration list for PBXNativeTarget "DemoSnuxll" */;
 			buildPhases = (
-				D7F015AE27423BDB0091AB9F /* Sources */,
-				D7F015AF27423BDB0091AB9F /* Frameworks */,
-				D7F015B027423BDB0091AB9F /* Resources */,
+				D7F015D427423ECD0091AB9F /* Sources */,
+				D7F015D527423ECD0091AB9F /* Frameworks */,
+				D7F015D627423ECD0091AB9F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = SnuxlDemoo;
-			productName = SnuxlDemoo;
-			productReference = D7F015B227423BDB0091AB9F /* SnuxlDemoo.app */;
+			name = DemoSnuxll;
+			productName = DemoSnuxll;
+			productReference = D7F015D827423ECD0091AB9F /* DemoSnuxll.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D7F015AA27423BDB0091AB9F /* Project object */ = {
+		D7F015D027423ECC0091AB9F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
 				LastUpgradeCheck = 1240;
 				TargetAttributes = {
-					D7F015B127423BDB0091AB9F = {
+					D7F015D727423ECD0091AB9F = {
 						CreatedOnToolsVersion = 12.4;
 					};
 				};
 			};
-			buildConfigurationList = D7F015AD27423BDB0091AB9F /* Build configuration list for PBXProject "SnuxlDemoo" */;
+			buildConfigurationList = D7F015D327423ECC0091AB9F /* Build configuration list for PBXProject "DemoSnuxll" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,47 +117,47 @@
 				en,
 				Base,
 			);
-			mainGroup = D7F015A927423BDB0091AB9F;
-			productRefGroup = D7F015B327423BDB0091AB9F /* Products */;
+			mainGroup = D7F015CF27423ECC0091AB9F;
+			productRefGroup = D7F015D927423ECD0091AB9F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D7F015B127423BDB0091AB9F /* SnuxlDemoo */,
+				D7F015D727423ECD0091AB9F /* DemoSnuxll */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D7F015B027423BDB0091AB9F /* Resources */ = {
+		D7F015D627423ECD0091AB9F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7F015C227423BDF0091AB9F /* LaunchScreen.storyboard in Resources */,
-				D7F015BF27423BDF0091AB9F /* Preview Assets.xcassets in Resources */,
-				D7F015BC27423BDF0091AB9F /* Assets.xcassets in Resources */,
+				D7F015E827423ED00091AB9F /* LaunchScreen.storyboard in Resources */,
+				D7F015E527423ED00091AB9F /* Preview Assets.xcassets in Resources */,
+				D7F015E227423ED00091AB9F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D7F015AE27423BDB0091AB9F /* Sources */ = {
+		D7F015D427423ECD0091AB9F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7F015B627423BDB0091AB9F /* AppDelegate.swift in Sources */,
-				D7F015B827423BDB0091AB9F /* SceneDelegate.swift in Sources */,
-				D7F015BA27423BDB0091AB9F /* ContentView.swift in Sources */,
+				D7F015DC27423ECD0091AB9F /* AppDelegate.swift in Sources */,
+				D7F015DE27423ECD0091AB9F /* SceneDelegate.swift in Sources */,
+				D7F015E027423ECD0091AB9F /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D7F015C027423BDF0091AB9F /* LaunchScreen.storyboard */ = {
+		D7F015E627423ED00091AB9F /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D7F015C127423BDF0091AB9F /* Base */,
+				D7F015E727423ED00091AB9F /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -165,7 +165,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D7F015C427423BDF0091AB9F /* Debug */ = {
+		D7F015EA27423ED00091AB9F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		D7F015C527423BDF0091AB9F /* Release */ = {
+		D7F015EB27423ED00091AB9F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -281,42 +281,42 @@
 			};
 			name = Release;
 		};
-		D7F015C727423BDF0091AB9F /* Debug */ = {
+		D7F015ED27423ED00091AB9F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"SnuxlDemoo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"DemoSnuxll/Preview Content\"";
 				DEVELOPMENT_TEAM = 8LD35N7G23;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = SnuxlDemoo/Info.plist;
+				INFOPLIST_FILE = DemoSnuxll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.Mastheadtem.SnuxlDemoo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Mastheadtem.DemoSnuxll;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		D7F015C827423BDF0091AB9F /* Release */ = {
+		D7F015EE27423ED00091AB9F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"SnuxlDemoo/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"DemoSnuxll/Preview Content\"";
 				DEVELOPMENT_TEAM = 8LD35N7G23;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = SnuxlDemoo/Info.plist;
+				INFOPLIST_FILE = DemoSnuxll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.Mastheadtem.SnuxlDemoo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Mastheadtem.DemoSnuxll;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -326,25 +326,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D7F015AD27423BDB0091AB9F /* Build configuration list for PBXProject "SnuxlDemoo" */ = {
+		D7F015D327423ECC0091AB9F /* Build configuration list for PBXProject "DemoSnuxll" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D7F015C427423BDF0091AB9F /* Debug */,
-				D7F015C527423BDF0091AB9F /* Release */,
+				D7F015EA27423ED00091AB9F /* Debug */,
+				D7F015EB27423ED00091AB9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D7F015C627423BDF0091AB9F /* Build configuration list for PBXNativeTarget "SnuxlDemoo" */ = {
+		D7F015EC27423ED00091AB9F /* Build configuration list for PBXNativeTarget "DemoSnuxll" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D7F015C727423BDF0091AB9F /* Debug */,
-				D7F015C827423BDF0091AB9F /* Release */,
+				D7F015ED27423ED00091AB9F /* Debug */,
+				D7F015EE27423ED00091AB9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D7F015AA27423BDB0091AB9F /* Project object */;
+	rootObject = D7F015D027423ECC0091AB9F /* Project object */;
 }
